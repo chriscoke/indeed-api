@@ -1,3 +1,6 @@
+<style> 
+  font-size: 12px 
+</style>
 # Indeed API
 
 # Overview of code:
@@ -10,3 +13,4 @@
 # indeed_api.R -- this allows the user to input certain parameters and file paths in order to query Indeed for search results
 # indeed_api_query.py -- underlying python code to pass search parameters to Indeed 
 # indeed_api.html -- sample output (if opened in browser)
+
